@@ -33,24 +33,12 @@
 		// Fix: Placeholder polyfill.
 			$('form').placeholder();
 
-        // Get the modal
-        		var modal = document.getElementById("myModal");
-
-		// Get the button that opens the modal
-				var btn = document.getElementById("rpg");
-
-
-		// When the user clicks on the button, open the modal
-				btn.onclick = function() {
-					modal.style.display = "block";
-				}
-
-		// When the user clicks anywhere outside of the modal, close it
-				window.onclick = function(event) {
-					if (event.target == modal) {
-						modal.style.display = "none";
-					}
-				}
+				$("#dungeonUnlimited").click(function(){
+            		$("#dungeonUnlimitedModal").modal('show');
+            	});
+            	$("#dungeonUnlimitedModal").modal({
+            		closable: true
+            	});
 
 		// Prioritize "important" elements on mobile.
 			skel.on('+mobile -mobile', function() {
