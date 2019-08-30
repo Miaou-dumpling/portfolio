@@ -33,13 +33,6 @@
 		// Fix: Placeholder polyfill.
 			$('form').placeholder();
 
-				$("#dungeonUnlimited").click(function(){
-            		$("#dungeonUnlimitedModal").modal('show');
-            	});
-            	$("#dungeonUnlimitedModal").modal({
-            		closable: true
-            	});
-
 		// Prioritize "important" elements on mobile.
 			skel.on('+mobile -mobile', function() {
 				$.prioritize(
