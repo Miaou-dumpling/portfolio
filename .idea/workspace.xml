@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d029c52-3b84-47ff-a107-501af587335f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/files/jeuPendu-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/dungeonUnlimited_static.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/edenProject_animated.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/edenProject_static.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/duckblade.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sections/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/giphy.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/dungeonUnlimited_animated.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
