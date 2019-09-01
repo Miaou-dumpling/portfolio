@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d029c52-3b84-47ff-a107-501af587335f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/smallUtbmWorld_animated.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/smallUtbmWorld_static.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sections/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/duckblade.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/duckblade.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Lighting Management Software - Java3D/Eclairage Projet IUT" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">

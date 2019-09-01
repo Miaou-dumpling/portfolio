@@ -12,10 +12,9 @@ $(function() {
 // Shows a modal when user clicks on a portfolio item
 function initAllModals()
 {
-    // Dungeon Unlimited Modal
     initModal("dungeonUnlimited");
-    // Eden Project Modal
     initModal("edenProject");
+    initModal("smallUtbmWorld");
 }
 
 // Initialize all thumbnail's animations
@@ -23,6 +22,7 @@ function initAllAnimatedThumbnails()
 {
     initAnimatedThumbnail("edenProject");
     initAnimatedThumbnail("dungeonUnlimited");
+    initAnimatedThumbnail("smallUtbmWorld");
 }
 
 // Initialize a Thumbnail by it's id
