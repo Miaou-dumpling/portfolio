@@ -2,3 +2,26 @@
 *.gem
 .sass-cache
 Gemfile.lock
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+bin/
+
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+target/
+
+# Log directory
+log/

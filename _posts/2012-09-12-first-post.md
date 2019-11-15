@@ -1,14 +1,19 @@
 ---
-title: First Post
-author: Chris
+title: Let's share some code!
+author: David
 layout: post
 ---
-Lorem ipsum dolor sit amet, iusto ridens dictas te sed. Error latine vis et. Ex cum munere definitiones, ne quas debitis contentiones cum, epicurei constituam ea sit. Dicant aeterno dolorum ex eum, qui everti iisque consectetuer ea! Duo in falli similique, nec tritani accusam te. Enim sapientem intellegat te pri, nam at atqui accumsan vituperata.
+I have decided to make this portfolio to sort out all the projects I have participated in, and showcase them.
 
-Sed id graeci feugiat. No meis summo consequat vel! Albucius phaedrum omittantur eos an, ex sit lorem possim perpetua. Usu et sumo posidonium, ut qui dicat sapientem tincidunt, et has consul oporteat torquatos! In qui fabulas facilisis, justo nonumes an his, quo vidisse nusquam facilisis no. Eam iriure mediocrem suavitate an?
+Today has been my 3rd year of work since I graduated ; it feels like it isn't long but a lot of things have happened in 
+this amount of time.
 
-Quo te solum malorum prompta, porro oblique senserit cum et! Pro wisi cetero periculis ei, nam ullum dicit accusam ne, ad quo apeirian principes dissentiunt. An mea mucius vocent iisque? Vel eu altera consetetur, clita perfecto mea ad. Eos in vero ullum regione, ei veniam disputando pro, nam et iuvaret detracto voluptua.
+After coming home from Shanghai in spring of 2016, I decided to settle in Strasbourg - the place where I was born.
+I had desperately tried to work in a startup near Changping Rd, but unfortunately the law in China didn't provide 
+foreigners with a work visa unless they had a minimum of two years of full-time work experience.
 
-Ad tritani deleniti sit, ne per ubique habemus singulis. Pro at integre alienum mediocritatem, mea ad libris adipisci necessitatibus, nostro constituam sit te. Recusabo oportere et mea, case minimum deleniti no quo, deseruisse conclusionemque vis te. Nam ex iudicabit constituam accommodare, dicam singulis ex eos! Eu mea viderer ceteros repudiandae, id erat voluptatum mea, ut consul omittam convenire quo. Id justo ipsum mei, modus contentiones per et! At mel omnium lucilius instructior, vel quando graeco in, eos docendi periculis eloquentiam ut.
+In Strasbourg I then found a job as Consultant, first for Econocom and now for Capgemini. I traded my web skills for the
+Java JEE universe, a language I am familiar with considering I spent most of my studies playing with it.
 
-Eam habemus aliquando ut. Id idque virtute antiopam duo, et idque falli incorrupte eos, in sea omnium instructior. Mei ex nostrud moderatius cotidieque, cu sea partiendo euripidis, eam no tollit doming! Has ne facilisi vulputate, aliquando disputationi mel eu. Ex pri diceret delectus intellegam, regione definiebas pro ex.
+I still love doing stuff on the web though as I've been coding websites and crawlers with various frameworks during my
+two-year stay in China.
