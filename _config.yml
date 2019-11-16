@@ -62,6 +62,7 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-include-cache
 
 # Necessary for Prologue theme:
 collections: [sections]
