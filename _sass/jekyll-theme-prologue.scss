@@ -245,6 +245,17 @@
 			width: 100%;
 		}
 
+        &.avatarDavid {
+                    width: 100px;
+                    height: 100px;
+                    background: #f00;
+
+                    img {
+                        width: 100px;
+                        height: 100px;
+                    }
+                }
+
 		&.avatar48 {
 			width: 48px;
 			height: 48px;
