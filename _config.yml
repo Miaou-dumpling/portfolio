@@ -65,4 +65,3 @@ plugins:
 
 # Necessary for Prologue theme:
 collections: [sections]
-theme: jekyll-theme-prologue
