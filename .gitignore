@@ -25,3 +25,5 @@ target/
 
 # Log directory
 log/
+
+.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/

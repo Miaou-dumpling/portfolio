@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
-# ./Gemfile
+gem "jekyll-theme-prologue"
 
-# This is an example, declare the theme gem you want to use here
-gem 'jekyll-theme-prologue', '~> 0.3.3'
-gem "jekyll", "~> 4.0"
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem "github-pages"
+  gem "jekyll-sitemap"
+end
