@@ -11,6 +11,7 @@ Gemfile.lock
 
 bin/
 
+.jekyll-cache/
  
 # Intellij
 .idea/

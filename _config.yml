@@ -58,11 +58,7 @@ dribbble_url:
 google_analytics:
 
 # Build settings
-remote_theme: chrisbobbe/jekyll-theme-prologue
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-include-cache
+theme: jekyll-theme-prologue
 
 # Necessary for Prologue theme:
 collections: [sections]
