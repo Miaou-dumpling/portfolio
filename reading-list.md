@@ -1,20 +1,18 @@
 ---
-title: Skill List
-subtitle: a list of my main skills
+title: Compétences
+subtitle: mes compétences principales
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-Here are some of my skills:
-
 * Google Digital Active
-* Continuous integration
+* Intégration continue
 * Java JEE
-* Building REST Applications
-* Virtualization
-* Web development
+* Applications REST
+* Virtualisation
+* Development web
 * Behaviour Driven Developement
-* Agile Management
+* Management Agile
 * Big Data
 

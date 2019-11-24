@@ -16,6 +16,7 @@ function initAllModals()
     initModal("edenProject");
     initModal("smallUtbmWorld");
     initModal("actsocialByLinkfluence");
+    initModal("deviantArt");
 }
 
 // Initialize all thumbnail's animations
@@ -25,6 +26,7 @@ function initAllAnimatedThumbnails()
     initAnimatedThumbnail("dungeonUnlimited");
     initAnimatedThumbnail("smallUtbmWorld");
     initAnimatedThumbnail("actsocialByLinkfluence");
+    initAnimatedThumbnail("deviantArt");
 }
 
 // Initialize a Thumbnail by it's id
