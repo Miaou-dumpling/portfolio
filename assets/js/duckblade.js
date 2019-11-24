@@ -17,6 +17,8 @@ function initAllModals()
     initModal("smallUtbmWorld");
     initModal("actsocialByLinkfluence");
     initModal("deviantArt");
+    initModal("crawler");
+    initModal("devilsHeart");
 }
 
 // Initialize all thumbnail's animations
@@ -27,6 +29,8 @@ function initAllAnimatedThumbnails()
     initAnimatedThumbnail("smallUtbmWorld");
     initAnimatedThumbnail("actsocialByLinkfluence");
     initAnimatedThumbnail("deviantArt");
+    initAnimatedThumbnail("crawler");
+    initAnimatedThumbnail("devilsHeart");
 }
 
 // Initialize a Thumbnail by it's id
