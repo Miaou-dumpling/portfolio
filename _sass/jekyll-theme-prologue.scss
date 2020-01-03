@@ -61,8 +61,8 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size: 18pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -74,8 +74,8 @@
 	}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-size: 18pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -348,8 +348,10 @@
 			background: #fff;
 			background: rgba(255, 255, 255, 0.75);
 			width: 100%;
-			border-radius: 0.35em;
+
 			padding: 0.75em 1em 0.75em 1em;
+			margin: 1em;
+
 			box-shadow: inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.05);
 			border: solid 1px rgba(0, 0, 0, 0.15);
 			@include vendor('transition', 'all 0.35s ease-in-out');
@@ -440,22 +442,24 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		border-radius: 0.35em;
+
 		color: #fff !important;
 		text-decoration: none;
-		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #8ebebc;
+		font-weight: bold;
+		margin-top: 1em;
+		padding: 0.60em 1em 0.60em 1em;
+		background-color: #96C8A3;
 		border: 0;
 		cursor: pointer;
 		@include vendor('background-image', ('linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15))', 'url("images/overlay.png")'));
 		@include vendor('transition', 'background-color 0.35s ease-in-out');
 
 		&:hover {
-			background-color: #9ececc;
+			background-color: #8ED0DA;
 		}
 
 		&:active {
-			background-color: #7eaeac;
+			background-color: #96C8A3;
 		}
 	}
 
@@ -611,7 +615,7 @@
 						color: #fff;
 
 						span::before {
-							color: #e27689;
+							color: #96C8A3;
 						}
 					}
 				}

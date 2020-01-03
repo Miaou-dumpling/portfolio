@@ -30,12 +30,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: David Hoeffel
+title: Minyi ZHUANG
 subtitle: Mon Portfolio
 description: >- # this means to ignore newlines until "baseurl:"
   Les projets que j'ai réalisés jusqu'à présent.
-author: David Hoeffel
-email: david.hoeffel@gmail.com
+author: Minyi ZHUANG
+email: zhuang.minyi@gmail.com
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -48,7 +48,7 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/david-hoeffel-05292871/
+linkedin_url: https://www.linkedin.com/in/minyi-zhuang/
 github_url:
 pinterest_url:
 slack_url:
